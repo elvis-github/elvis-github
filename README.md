@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a software engineer at Zuora working on maintaining and adding new features to our Payment Gateway Integrations!
+I am a software engineer at Zuora on our Platform Team and am developing the Zuora Data Platform!
 
 Other than my work with Zuora, I love tinkering with selfhosting FOSS 🖥️, playing guitar 🎸, traveling the world ✈️, and trying new sports (Scuba Diving 🤿, Skateboarding 🛹, and many more)!
 
